@@ -3,3 +3,5 @@
 editado na maquina local com sucesso
 
 outra edição
+
+edição feita no remoto
